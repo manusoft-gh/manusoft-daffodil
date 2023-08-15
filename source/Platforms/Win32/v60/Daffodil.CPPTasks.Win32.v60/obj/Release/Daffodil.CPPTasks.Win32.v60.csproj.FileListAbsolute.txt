@@ -1,0 +1,4 @@
+P:\Work\Daffodil\manusoft-daffodil\source\Platforms\Win32\v60\Daffodil.CPPTasks.Win32.v60\bin\Release\Daffodil.CPPTasks.Win32.v60.dll
+P:\Work\Daffodil\manusoft-daffodil\source\Platforms\Win32\v60\Daffodil.CPPTasks.Win32.v60\bin\Release\Daffodil.CPPTasks.Win32.v60.pdb
+P:\Work\Daffodil\manusoft-daffodil\source\Platforms\Win32\v60\Daffodil.CPPTasks.Win32.v60\obj\Release\Daffodil.CPPTasks.Win32.v60.dll
+P:\Work\Daffodil\manusoft-daffodil\source\Platforms\Win32\v60\Daffodil.CPPTasks.Win32.v60\obj\Release\Daffodil.CPPTasks.Win32.v60.pdb
