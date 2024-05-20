@@ -610,12 +610,6 @@
         "Entry"
         {
         "MsmKey" = "8:_3C98116AE00C01C9BF8C97A46946F6A3"
-        "OwnerKey" = "8:_2482CF930EEFDA20C63EC4607DFA080A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3C98116AE00C01C9BF8C97A46946F6A3"
         "OwnerKey" = "8:_F3AD15638D5549BA976195088382B930"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -635,6 +629,12 @@
         {
         "MsmKey" = "8:_3C98116AE00C01C9BF8C97A46946F6A3"
         "OwnerKey" = "8:_4C6597877E844AA9B54565510CD2F0FC"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3C98116AE00C01C9BF8C97A46946F6A3"
+        "OwnerKey" = "8:_2482CF930EEFDA20C63EC4607DFA080A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -11562,15 +11562,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Daffodil for Visual Studio"
-        "ProductCode" = "8:{919CABC2-138A-4386-B17A-192CEE505DD5}"
-        "PackageCode" = "8:{FA957646-7505-4954-B7D5-295D779956A9}"
+        "ProductCode" = "8:{17117F17-2D52-44AA-A107-889425D0A266}"
+        "PackageCode" = "8:{4190FBA2-444C-4A8B-9050-307C9A462327}"
         "UpgradeCode" = "8:{4165456A-14E4-4309-9426-D4777998D3DB}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:2.6.2"
+        "ProductVersion" = "8:2.6.4"
         "Manufacturer" = "8:ManuSoft"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:http://www.manusoft.com"
