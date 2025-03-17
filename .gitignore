@@ -36,6 +36,9 @@ bld/
 !source/Platforms/**
 source/Platforms/**/*.dll
 source/Platforms/**/*.pdb
+# except these...
+*.user
+obj/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/

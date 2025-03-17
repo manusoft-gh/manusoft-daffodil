@@ -1,4 +1,0 @@
-P:\Work\Daffodil\manusoft-daffodil\source\Platforms\X64\v80\Daffodil.CPPTasks.X64.v80\bin\Release\Daffodil.CPPTasks.x64.v80.dll
-P:\Work\Daffodil\manusoft-daffodil\source\Platforms\X64\v80\Daffodil.CPPTasks.X64.v80\bin\Release\Daffodil.CPPTasks.x64.v80.pdb
-P:\Work\Daffodil\manusoft-daffodil\source\Platforms\X64\v80\Daffodil.CPPTasks.X64.v80\obj\Release\Daffodil.CPPTasks.x64.v80.dll
-P:\Work\Daffodil\manusoft-daffodil\source\Platforms\X64\v80\Daffodil.CPPTasks.X64.v80\obj\Release\Daffodil.CPPTasks.x64.v80.pdb
