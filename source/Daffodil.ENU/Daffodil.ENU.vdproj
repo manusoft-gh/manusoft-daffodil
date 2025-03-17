@@ -352,13 +352,7 @@
         "Entry"
         {
         "MsmKey" = "8:_2482CF930EEFDA20C63EC4607DFA080A"
-        "OwnerKey" = "8:_4C6597877E844AA9B54565510CD2F0FC"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2482CF930EEFDA20C63EC4607DFA080A"
-        "OwnerKey" = "8:_7FA86AC502DB42F39F628822FC33EA5B"
+        "OwnerKey" = "8:_F3AD15638D5549BA976195088382B930"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -370,7 +364,13 @@
         "Entry"
         {
         "MsmKey" = "8:_2482CF930EEFDA20C63EC4607DFA080A"
-        "OwnerKey" = "8:_F3AD15638D5549BA976195088382B930"
+        "OwnerKey" = "8:_7FA86AC502DB42F39F628822FC33EA5B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2482CF930EEFDA20C63EC4607DFA080A"
+        "OwnerKey" = "8:_4C6597877E844AA9B54565510CD2F0FC"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -610,19 +610,7 @@
         "Entry"
         {
         "MsmKey" = "8:_3C98116AE00C01C9BF8C97A46946F6A3"
-        "OwnerKey" = "8:_2482CF930EEFDA20C63EC4607DFA080A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3C98116AE00C01C9BF8C97A46946F6A3"
-        "OwnerKey" = "8:_4C6597877E844AA9B54565510CD2F0FC"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3C98116AE00C01C9BF8C97A46946F6A3"
-        "OwnerKey" = "8:_7FA86AC502DB42F39F628822FC33EA5B"
+        "OwnerKey" = "8:_F3AD15638D5549BA976195088382B930"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -634,7 +622,19 @@
         "Entry"
         {
         "MsmKey" = "8:_3C98116AE00C01C9BF8C97A46946F6A3"
-        "OwnerKey" = "8:_F3AD15638D5549BA976195088382B930"
+        "OwnerKey" = "8:_7FA86AC502DB42F39F628822FC33EA5B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3C98116AE00C01C9BF8C97A46946F6A3"
+        "OwnerKey" = "8:_4C6597877E844AA9B54565510CD2F0FC"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3C98116AE00C01C9BF8C97A46946F6A3"
+        "OwnerKey" = "8:_2482CF930EEFDA20C63EC4607DFA080A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -2380,25 +2380,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_3C98116AE00C01C9BF8C97A46946F6A3"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_2482CF930EEFDA20C63EC4607DFA080A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0496EC2E87EC46F3B21E3081373AF690"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_4C6597877E844AA9B54565510CD2F0FC"
+        "OwnerKey" = "8:_8C04E5A00ED74FD9A7099E8E2BC3B087"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -2410,7 +2392,25 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_8C04E5A00ED74FD9A7099E8E2BC3B087"
+        "OwnerKey" = "8:_4C6597877E844AA9B54565510CD2F0FC"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_0496EC2E87EC46F3B21E3081373AF690"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_2482CF930EEFDA20C63EC4607DFA080A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_3C98116AE00C01C9BF8C97A46946F6A3"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -3605,6 +3605,11 @@
             "AssemblyAsmDisplayName" = "8:Microsoft.Build.CPPTasks.Win32, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_2482CF930EEFDA20C63EC4607DFA080A"
+                    {
+                    "Name" = "8:Microsoft.Build.CPPTasks.Win32.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:Microsoft.Build.CPPTasks.Win32.dll"
             "TargetName" = "8:"
@@ -4391,6 +4396,11 @@
             "AssemblyAsmDisplayName" = "8:Microsoft.Build.CPPTasks.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_3C98116AE00C01C9BF8C97A46946F6A3"
+                    {
+                    "Name" = "8:Microsoft.Build.CPPTasks.Common.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:Microsoft.Build.CPPTasks.Common.dll"
             "TargetName" = "8:"
@@ -11552,15 +11562,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Daffodil for Visual Studio"
-        "ProductCode" = "8:{3EFE8D91-7F01-4AEE-B559-0EA3D41ADF0D}"
-        "PackageCode" = "8:{44EC5C6B-B585-4AE3-9495-EB371E2B25EA}"
+        "ProductCode" = "8:{7177AAF7-9FAE-42EA-A693-6B201A6D14AC}"
+        "PackageCode" = "8:{BD588D49-F2A8-473E-A025-F600EE43C2F9}"
         "UpgradeCode" = "8:{4165456A-14E4-4309-9426-D4777998D3DB}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:2.6.5"
+        "ProductVersion" = "8:2.6.6"
         "Manufacturer" = "8:ManuSoft"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:http://www.manusoft.com"
@@ -12073,7 +12083,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_0496EC2E87EC46F3B21E3081373AF690"
             {
-            "SourcePath" = "8:..\\Platforms\\Win32\\v60\\Daffodil.CPPTasks.Win32.v60\\obj\\Release\\Daffodil.CPPTasks.Win32.v60.dll"
+            "SourcePath" = "8:..\\Platforms\\Win32\\v60\\Daffodil.CPPTasks.Win32.v60\\obj\\Debug\\Daffodil.CPPTasks.Win32.v60.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_45278CA363624261962F8A3DDE96BCC9"
@@ -12101,7 +12111,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_4C6597877E844AA9B54565510CD2F0FC"
             {
-            "SourcePath" = "8:..\\Platforms\\Win32\\v70\\Daffodil.CPPTasks.Win32.v70\\obj\\Release\\Daffodil.CPPTasks.Win32.v70.dll"
+            "SourcePath" = "8:..\\Platforms\\Win32\\v70\\Daffodil.CPPTasks.Win32.v70\\obj\\Debug\\Daffodil.CPPTasks.Win32.v70.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_F0D34960A8B4448DB14E7DF8BC739397"
@@ -12129,7 +12139,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_7FA86AC502DB42F39F628822FC33EA5B"
             {
-            "SourcePath" = "8:..\\Platforms\\X64\\v80\\Daffodil.CPPTasks.X64.v80\\obj\\Release\\Daffodil.CPPTasks.x64.v80.dll"
+            "SourcePath" = "8:..\\Platforms\\X64\\v80\\Daffodil.CPPTasks.X64.v80\\obj\\Debug\\Daffodil.CPPTasks.x64.v80.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_4B726E60CD9C4603B7836849BCD8682D"
@@ -12157,7 +12167,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_8C04E5A00ED74FD9A7099E8E2BC3B087"
             {
-            "SourcePath" = "8:..\\Platforms\\Win32\\v80\\Daffodil.CPPTasks.Win32.v80\\obj\\Release\\Daffodil.CPPTasks.Win32.v80.dll"
+            "SourcePath" = "8:..\\Platforms\\Win32\\v80\\Daffodil.CPPTasks.Win32.v80\\obj\\Debug\\Daffodil.CPPTasks.Win32.v80.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_7AC4D2740D9841E59FD21EE758053412"
@@ -12185,7 +12195,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_F3AD15638D5549BA976195088382B930"
             {
-            "SourcePath" = "8:..\\Platforms\\Win32\\v71\\Daffodil.CPPTasks.Win32.v71\\obj\\Release\\Daffodil.CPPTasks.Win32.v71.dll"
+            "SourcePath" = "8:..\\Platforms\\Win32\\v71\\Daffodil.CPPTasks.Win32.v71\\obj\\Debug\\Daffodil.CPPTasks.Win32.v71.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_583CA0248D3F479A9A935D5EB2A444AA"
